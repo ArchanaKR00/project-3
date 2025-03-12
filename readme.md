@@ -1,5 +1,6 @@
 # HTML project3
 ## profile
 
+### technology used
 - HTML 
-[ss2.png]
+![img](./ss2.png)
